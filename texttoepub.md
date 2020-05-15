@@ -2,14 +2,15 @@
 ## Function
 
 A text to epub creater.
+[Homepage](https://github.com/startewho/texttoepub)
 
-## Furter
+## Features
 
-* muti Encoding utf8/gbk
-* 
+* muti Encoding support utf8/gbk
+* startup args support
 
 
 ## Todo
-* startup args
+* auto release
 * docs
 * a lib
